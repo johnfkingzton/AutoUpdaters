@@ -1,1 +1,4 @@
-true https://cdn.discordapp.com/attachments/769266398332715011/776234722002337812/ZeusX.dll
+Zeus_UPDATER_BY_JohnKingzton#9999
+https://cdn.discordapp.com/attachments/769266398332715011/776234722002337812/ZeusX.dll
+true
+https://cdn.discordapp.com/attachments/769266398332715011/776234722002337812/ZeusX.dll
